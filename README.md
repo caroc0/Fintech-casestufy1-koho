@@ -32,7 +32,7 @@ Koho operates in the Banking and financial services space where there have been 
 - Mobile payment innovations: thanks to the broad adoption of smart devices, many services have shifted to mobile like mobile payment that allows people to transfer money anywhere in the world with a few simple steps.
 - Hyper-personalization via big data and AI: since social media, internet searches and all internet activity leaves a digital print, companies have found incentives to capture and filter this data inorder to finda patterns in users that could in turn be utilized for target advertising and search engine optimization.
 
-![image](koho_3.png) 
+![image](koho_3.jpeg) 
 
 - The levering of social platforms for marketing: as social media shift into smartphones and thenumber of hours that we spend engaged in social media, social platforms transformed into broadcasting tools forcompanies and governments to influence peoples behaivior.
 
