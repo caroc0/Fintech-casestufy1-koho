@@ -60,20 +60,20 @@ Capitalizing on their brand recognition in the Canadian market would give them a
 
 ## links
 
-https://www.koho.ca/about/
-https://www.mondaq.com/canada/financial-services/403230/qa-with-daniel-eberhard-28-year-old-ceo-and-co-founder-of-koho-a-vancouver-based-financial-technology-startup
-https://angel.co/company/koho/funding
-https://www.globalxetfs.com/a-decade-of-change-how-tech-evolved-in-the-2010s-and-whats-in-store-for-the-2020s/
-https://betakit.com/koho-adds-national-bank-and-drive-as-investors-with-25-million-cad-series-b-extension/
-https://angel.co/company/koho/jobs/1165470-senior-data-engineer
-https://angel.co/company/koho/jobs/244734-senior-product-manager
-https://strategyonline.ca/2019/08/20/inside-the-remaking-of-a-toronto-fintech-company/
-https://www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/?sh=668e8dc64846
-https://www.wns.com/insights/articles/articledetail/547/top-trends-in-banking-and-financial-services
-https://www.cbinsights.com/research/personal-finance-apps-strategies/
-https://bankautomationnews.com/allposts/payments/canadian-neobank-koho-to-launch-credit-and-savings-products-in-2020/
-https://www.mogo.ca
-https://www.getstack.ca
-https://growjo.com/company/KOHO
-https://cointelegraph.com/magazine/crypto-cards-2019/
-https://zerocap.io/millennials-and-bitcoin/
+- https://www.koho.ca/about/
+- https://www.mondaq.com/canada/financial-services/403230/qa-with-daniel-eberhard-28-year-old-ceo-and-co-founder-of-koho-a-vancouver-based-financial-technology-startup
+- https://angel.co/company/koho/funding
+- https://www.globalxetfs.com/a-decade-of-change-how-tech-evolved-in-the-2010s-and-whats-in-store-for-the-2020s/
+- https://betakit.com/koho-adds-national-bank-and-drive-as-investors-with-25-million-cad-series-b-extension/
+- https://angel.co/company/koho/jobs/1165470-senior-data-engineer
+- https://angel.co/company/koho/jobs/244734-senior-product-manager
+- https://strategyonline.ca/2019/08/20/inside-the-remaking-of-a-toronto-fintech-company/
+- https://www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/?sh=668e8dc64846
+- https://www.wns.com/insights/articles/articledetail/547/top-trends-in-banking-and-financial-services
+- https://www.cbinsights.com/research/personal-finance-apps-strategies/
+- https://bankautomationnews.com/allposts/payments/canadian-neobank-koho-to-launch-credit-and-savings-products-in-2020/
+- https://www.mogo.ca
+- https://www.getstack.ca
+- https://growjo.com/company/KOHO
+- https://cointelegraph.com/magazine/crypto-cards-2019/
+- https://zerocap.io/millennials-and-bitcoin/
